@@ -1,0 +1,197 @@
+const products = [
+  {
+    name: 'Cinthol Soap',
+    image: '/images/soaps.jpg',
+    description:
+      'Best Bathing Soap',
+    brand: 'GODREJ',
+    category: 'soaps',
+    price: 20,
+    countInStock: 50,
+    rating: 0,
+    numReviews: 0,
+  }, 
+  {
+    name: 'Surf Excel Surf Powder',
+    image: '/images/surf.jpg',
+    description:
+      'Best Surf Powder',
+      brand: 'Surf Excel',
+      category: 'Surf',
+    price: 10,
+    countInStock: 50,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Dettol Hand Wash',
+    image: '/images/dettol.jpg',
+    description:
+      'Best Hand Wash',
+      brand: 'DETTOL',
+      category: 'Handwash',
+    price: 35,
+    countInStock: 50,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Ponds cream',
+    image: '/images/ponds.jpg',
+    description:
+      'Moisturizer and Beauty cream',
+      brand: 'PONDS',
+      category: 'Creams',
+    price: 35,
+    countInStock: 40,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Freedom Sunflower Oil',
+    image: '/images/oils.jpg',
+    description:
+      'Best Cooking Oil',
+      brand: 'FREEDOM',
+      category: 'Oil',
+    price: 65,
+    countInStock: 30,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Clinic Plus Shampoo',
+    image: '/images/clinicplus.jpg',
+    description:
+      'Best hair care shampoo',
+      brand: 'ClinicPlus',
+      category: 'Shampoo',
+    price: 45,
+    countInStock: 30,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Parachute Coconut Oil',
+    image: '/images/cocooil.jpg',
+    description:
+      'Best hair Oil',
+      brand: 'Parachute',
+      category: 'Oil',
+    price: 15,
+    countInStock: 30,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Dhoop Sticks',
+    image: '/images/dhoop_sticks.jpg',
+    description:
+      'Best Dhoop Sticks',
+      brand: 'Shree',
+      category: 'Dhoop Sticks',
+    price: 40,
+    countInStock: 30,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Amul Cow Ghee',
+    image: '/images/ghee.jpg',
+    description:
+      'Best Cow Ghee',
+      brand: 'Amul',
+      category: 'Ghee',
+    price: 60,
+    countInStock: 30,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Dabur Honey',
+    image: '/images/honeyy.jpg',
+    description:
+      'Best natural Honey',
+      brand: 'Dabur',
+      category: 'Honey',
+    price: 65,
+    countInStock: 30,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Kissan Fruit Jam',
+    image: '/images/kissanjam.jpg',
+    description:
+      'Best Fruit Jam',
+      brand: 'Kissan',
+      category: 'Fruit Jam',
+    price: 30,
+    countInStock: 30,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Colgate Paste',
+    image: '/images/paste.jpg',
+    description:
+      'Best Tooth Paste',
+      brand: 'Colgate',
+      category: 'Tooth Paste',
+    price: 55,
+    countInStock: 40,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Arjun Gold Rice bag',
+    image: '/images/rice.jpg',
+    description:
+      'Best Rice',
+      brand: 'Arjun Gold',
+      category: 'Rice',
+    price: 600,
+    countInStock: 50,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Ashirvaad Aata',
+    image: '/images/atta.jpg',
+    description:
+      'Best aata for chapatis and puris',
+      brand: 'ASHIRVAAD',
+      category: 'Flours',
+    price: 45,
+    countInStock: 30,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Rin Soap',
+    image: '/images/rinsoap.jpg',
+    description:
+      'Best Detergent Soap',
+      brand: 'RIN',
+      category: 'Detergent Soap',
+    price: 25,
+    countInStock: 30,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Vicks Vaporub',
+    image: '/images/vickss.jpg',
+    description:
+      'Best Cold healer',
+      brand: 'Vicks',
+      category: 'Vicks',
+    price: 30,
+    countInStock: 50,
+    rating: 0,
+    numReviews: 0,
+  }
+]
+
+export default products
+
